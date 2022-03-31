@@ -1,4 +1,5 @@
 library(class)
+library(ISLR)
 
 # K-nearest neighbors -----------------------------------------------------
 
